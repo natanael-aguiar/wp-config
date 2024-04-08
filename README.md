@@ -9,7 +9,7 @@ define('FORCE_SSL_ADMIN', true);
 define('WP_SITEURL',     'http://example.com');
 
 /* Specify maximum number of Revisions. */
-define('WP_POST_REVISIONS', '2');
+define('WP_POST_REVISIONS', 2);
 
 /* Media Trash. */
 define('MEDIA_TRASH', true);
